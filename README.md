@@ -1,0 +1,1 @@
+# ramblings-karaf-camel
